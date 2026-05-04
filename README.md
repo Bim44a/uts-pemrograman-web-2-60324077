@@ -1,7 +1,7 @@
 # UTS Pemrograman Web 2
 
-*Nama: Bima Adi Nugroho
-*NIM: 60324077
+**Nama**: Bima Adi Nugroho
+**NIM**: 60324077
 
 ## Deskripsi Aplikasi
 
