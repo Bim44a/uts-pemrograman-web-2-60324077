@@ -1,16 +1,12 @@
 # UTS Pemrograman Web 2
 
-**Nama**: Bima Adi Nugroho
-**NIM**: 60324077
-
----
+*Nama: Bima Adi Nugroho
+*NIM: 60324077
 
 ## Deskripsi Aplikasi
 
 Aplikasi ini merupakan sistem manajemen kategori buku pada perpustakaan berbasis web menggunakan PHP dan MySQL.
 Aplikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) untuk mengelola data kategori buku.
-
----
 
 ## Cara Instalasi dan Menjalankan Aplikasi
 
@@ -54,9 +50,6 @@ Aplikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) untuk mengelo
    http://localhost/uts_60324077
    ```
 
-
----
-
 ## Struktur Folder
 
 ```
@@ -70,8 +63,6 @@ delete.php
 edit.php
 index.php
 ```
-
----
 
 ## Link Repository
 
