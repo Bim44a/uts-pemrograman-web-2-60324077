@@ -1,5 +1,4 @@
 # UTS Pemrograman Web 2
----
 
 **Nama**: Bima Adi Nugroho
 **NIM**: 60324077
@@ -25,8 +24,7 @@ Aplikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) untuk mengelo
 
 3. Jalankan aplikasi XAMPP, kemudian aktifkan layanan:
 
-   * Apache
-   * MySQL
+   Apache dan MySQL
 
 4. Buka phpMyAdmin melalui browser dengan alamat:
 
@@ -40,7 +38,7 @@ Aplikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) untuk mengelo
    uts_perpustakaan_60324077
    ```
 
-6. Import file uts_perpustakaan_60324077.sql ke dalam database yang sudah dibuat
+6. Import file ```uts_perpustakaan_60324077.sql``` ke dalam database yang sudah dibuat
 
 7. Buka file konfigurasi database pada:
 
