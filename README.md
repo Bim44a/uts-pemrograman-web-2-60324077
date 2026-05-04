@@ -1,8 +1,8 @@
 # UTS Pemrograman Web 2
 ---
 
-* Nama: Bima Adi Nugroho
-* NIM: 60324077
+Nama: Bima Adi Nugroho
+NIM: 60324077
 
 ---
 
@@ -59,11 +59,11 @@ config/
   └── database.php
 database/
   └── uts_perpustakaan_60324077.sql
-index.php
-create.php
-edit.php
-delete.php
 README.md
+create.php
+delete.php
+edit.php
+index.php
 ```
 
 ---
